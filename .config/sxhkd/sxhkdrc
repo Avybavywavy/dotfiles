@@ -139,3 +139,7 @@ super + shift + s
 # intialize htop
 ctrl + shift + q
 	alacritty -e htop
+
+# open volume control
+super + v
+	pavucontrol
