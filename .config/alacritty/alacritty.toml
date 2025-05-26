@@ -9,10 +9,10 @@ padding = { x = 0, y = 0 }
 opacity = 0.91
 
 [font]
-normal = { family = "SourceCodePro", style = "semibold" }
-bold = { family = "SourceCodePro", style = "bold" }
-italic = { family = "SourceCodePro", style = "it" }
-bold_italic = { family ="SourceCodePro", style = "Boldit" }
+normal = { family = "JetBrainsMonoNerdFont", style = "SemiBold" }
+bold = { family = "JetBrainsMonoNerdFont", style = "Bold" }
+italic = { family = "JetBrainsMonoNerdFont", style = "Italic" }
+bold_italic = { family ="JetBrainsMonoNerdFont", style = "BoldItalic" }
 
 size = 16.2
 offset = { x = -1, y = 0 }
