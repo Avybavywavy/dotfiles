@@ -1,0 +1,36 @@
+- fastfetch nerd font config
+
+- configure and theme the rofi menu
+	- configuring what shows up on rofi
+	- configuring icons/what icons rofi uses
+	- make shit purple
+	- truncate the description of the applications (i.e. remove the little description of apps that shows up in parentheses)
+
+- polybar config 
+	-
+	-
+	-
+
+- configure the global font/s
+	-
+	-
+	-
+
+- create the cursor theme
+	-set the global cursor size so that the size of the cursor is consistent between applications
+	- determine how the .xcf format for cursors works
+		-
+		-
+		-
+	- convert the .cur and .ani files into a .xcf format
+		- turn the .ani files into multiple separate files
+		- potentially create variations on existing cursors/new types of cursors that don't already exist within the cursor set
+		- determine the naming convention and create the .xcf files that follow that naming convention for the respective cursors
+
+- create a kuromi themed gtk theme for the file browser/other applications
+	-
+	-
+	-
+
+- allow the knob the keyboard to control the system volume.
+- create a custom little notification sound for when a usb device is connected.
