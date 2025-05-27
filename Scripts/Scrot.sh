@@ -1,2 +1,2 @@
 #! /usr/bin/bash
-	scrot /home/avybavywavy/Pictures/Screenshots/%M-%d-%y.png
+	scrot /home/avybavywavy/Photos/Screenshots/%M-%d-%y.png

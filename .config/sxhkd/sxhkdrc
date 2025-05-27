@@ -4,7 +4,7 @@
 
 # terminal emulator
 super + q
-	alacritty
+	kitty
 	
 # program launcher
 super + r
@@ -143,3 +143,11 @@ ctrl + shift + q
 # open volume control
 super + v
 	pavucontrol
+
+# open markdown editor
+super + alt + g
+	ghostwriter
+
+# open spotify
+super + s
+	spotify-launcher
