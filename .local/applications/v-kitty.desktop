@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Neovim (kitty)
+Comment=Edit text files in Neovim launched inside Alacritty
+Exec=kitty -e nvim %F
+Icon=nvim
+Terminal=false
+Type=Application
+Categories=Utility;TextEditor;Development;
+MimeType=text/plain;text/x-c;text/x-c++;text/x-java-source;text/x-python;text/x-shellscript;text/javascript;text/typescript;application/json;application/xml;text/html;text/css;text/markdown;text/x-perl;text/x-php;text/x-ruby;text/x-go;text/x-rust;text/x-swift;text/x-scala;text/x-groovy;text/x-lua;text/x-fortran;text/x-sh;text/x-bat;text/x-powershell;text/x-elixir;text/x-erlang;application/sql;application/x-yaml;text/csv;text/tab-separated-values;text/calendar;application/javascript;application/x-javascript;text/coffeescript;text/x-cmake;text/x-commonlisp;text/x-d;text/x-diff;text/x-dockerfile;text/x-elm;text/x-erlang;text/x-fsharp;text/x-graphql;text/x-haskell;text/x-ini;text/x-latex;text/x-less;text/x-log;text/x-lua;text/x-makefile;text/x-markdown;text/x-mathematica;text/x-modelica;text/x-nginx-conf;text/x-objectivec;text/x-ocaml;text/x-pascal;text/x-php;text/x-powershell;text/x-puppet;text/x-python;text/x-qml;text/x-r;text/x-ruby;text/x-sass;text/x-scss;text/x-solidity;text/x-sql;text/x-stylus;text/x-swift;text/x-tcl;text/x-tex;text/x-toml;text/x-typescript;text/x-vb;text/x-verilog;text/x-vhdl;text/x-vue;text/x-xml;text/x-yaml;text/x-zsh;
+Keywords=nvim;vim;editor;text;
+StartupNotify=true

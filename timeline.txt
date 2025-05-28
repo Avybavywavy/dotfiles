@@ -1,4 +1,4 @@
-- fastfetch nerd font config
+- fastfetch nerd font config </
 
 - configure and theme the rofi menu
 	- configuring what shows up on rofi
