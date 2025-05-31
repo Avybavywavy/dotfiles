@@ -1,6 +1,6 @@
 - fastfetch nerd font config </
 
-- define the dependencies in the deps.txt
+- define the dependencies in the deps.txt </ (I think I got everything?)
 
 - configure and theme the rofi menu
 	- configuring what shows up on rofi

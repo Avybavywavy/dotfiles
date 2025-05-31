@@ -1,0 +1,2 @@
+xinit xrandr grub-bootloader sddm bspwm sxhkd polybar nitrogen picom lxappearance kitty 
+firefox vlc-media-player thunar-file-manager calcurse
