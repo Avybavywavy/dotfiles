@@ -1,5 +1,7 @@
 - fastfetch nerd font config </
 
+- define the dependencies in the deps.txt
+
 - configure and theme the rofi menu
 	- configuring what shows up on rofi
 	- configuring icons/what icons rofi uses
@@ -40,7 +42,16 @@
 	-
 
 - theme firefox and vlc to be kuromi themed
+	- 
+	- 
 - create an sddm theme to go with the desktop
+	- install sddm
+	- 
+	- 
 - theme grub to also be kuromi themed
+	-
+	- 
+	-
 - allow the knob the keyboard to control the system volume.
 - create a custom little notification sound for when a usb device is connected.
+- create an install script
