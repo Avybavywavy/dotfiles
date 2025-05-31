@@ -138,7 +138,7 @@ super + shift + s
 
 # intialize htop
 ctrl + shift + q
-	alacritty -e htop
+	kitty -e htop
 
 # open volume control
 super + v
@@ -151,3 +151,11 @@ super + alt + g
 # open spotify
 super + s
 	spotify-launcher
+
+# open keepassxc
+super + alt + y
+	keepassxc
+
+# open steam
+super + t
+	steam

@@ -16,6 +16,13 @@
 	-
 	-
 
+- configure fancy animations for picom
+	- 
+	-
+	- 
+	- 
+	-
+
 - create the cursor theme
 	-set the global cursor size so that the size of the cursor is consistent between applications
 	- determine how the .xcf format for cursors works

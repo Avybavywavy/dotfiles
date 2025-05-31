@@ -1,3 +1,10 @@
 alias v='nvim'
-alias conf='cd ~/.config/'
-export PS1="\e[1;36m\u@\W >_ \e[0m"
+alias conf='cd /home/avybavywavy/.config/'
+alias g='ghostwriter'
+alias ls='ls -a --color'
+alias v.='nvim .'
+alias cp='cp -r'
+alias tree='tree -aC'
+alias less='less -R'
+export LS_COLORS="$(vivid generate catppuccin-frappe)"
+PS1='[ \[\e[38;5;196m\]\u\[\e[0m\]@\[\e[38;5;134m\]\h\[\e[0m\]  \[\e[38;5;169m\]\w\[\e[0m\] ]󱞵   '
