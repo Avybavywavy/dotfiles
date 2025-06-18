@@ -2,6 +2,11 @@
 
 - define the dependencies in the deps.txt </ (I think I got everything?)
 
+- setup neovim
+	- 
+	- 
+	- 
+	- 
 - configure and theme the rofi menu
 	- configuring what shows up on rofi
 	- configuring icons/what icons rofi uses
@@ -52,6 +57,15 @@
 	-
 	- 
 	-
+- install all of the applications needed
+- determine what to include in the base install
+- configure fuzzy finder with aliases and scripts
+- optimize gaming performance
+- perhaps make a seperate desktop thingy for gaming idk tho
 - allow the knob the keyboard to control the system volume.
 - create a custom little notification sound for when a usb device is connected.
 - create an install script
+
+# there should be a menu for shortcuts and when you install using the script it will show you the shortcut for viewing the other shortcuts and you can turn this off after the fact I guess.
+
+

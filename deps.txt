@@ -1,2 +1,3 @@
-xinit xrandr grub-bootloader sddm bspwm sxhkd polybar nitrogen picom lxappearance kitty 
-firefox vlc-media-player thunar-file-manager calcurse
+xinit xrandr grub-bootloader sddm bspwm sxhkd polybar nitrogen picom lxappearance kitty
+firefox vlc-media-player thunar-file-manager calcurse tree imagemagick loupe ffmpegthumbnailer efibootmgr archlinux-xdg-menu appimagelauncher whois
+bash-completion fzf LS_COLORS
