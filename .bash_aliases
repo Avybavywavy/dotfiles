@@ -1,6 +1,5 @@
 alias sudo='sudo '
 alias music='cd ~/Music/albums'
-alias home='cd ~'
 alias dl='cd ~/Downloads'
 alias calendar='calcurse'
 alias tree='tree -aC'

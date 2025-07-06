@@ -53,15 +53,11 @@
 	- install sddm
 	- 
 	- 
-- theme grub to also be kuromi themed
-	-
-	- 
-	-
+
 - install all of the applications needed
 - determine what to include in the base install
-- configure fuzzy finder with aliases and scripts
+- configure fuzzy finder with and scripts
 - optimize gaming performance
-- perhaps make a seperate desktop thingy for gaming idk tho
 - allow the knob the keyboard to control the system volume.
 - create a custom little notification sound for when a usb device is connected.
 - create an install script
