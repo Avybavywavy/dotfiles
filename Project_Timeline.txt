@@ -2,6 +2,10 @@
 
 - define the dependencies in the deps.txt </ (I think I got everything?)
 
+- make that warning script
+- fix nitrogen config
+- remake the color scheme for vim
+
 - setup neovim
 	- 
 	- 
