@@ -2,6 +2,7 @@
 
 - define the dependencies in the deps.txt </ (I think I got everything?)
 
+- Fix the fastfetch config
 - Make a slightly different deal for the laptop maybe. With a battery module for the polybar and also smaller text and the like.
 - fix fastfetch
 - fix kitty conf
