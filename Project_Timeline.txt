@@ -2,11 +2,15 @@
 
 - define the dependencies in the deps.txt </ (I think I got everything?)
 
-- Fix the fastfetch config
+- Fix the fastfetch config </
 - Make a slightly different deal for the laptop maybe. With a battery module for the polybar and also smaller text and the like.
-- fix fastfetch
 - fix kitty conf
+- make the speaker and the in-built headphone jack work.
+- make the bluetooth work too OwO.
 - make that warning script
+	-
+	-
+- Determine the naming convention of the file system.
 - fix nitrogen config
 - remake the color scheme for vim
 
