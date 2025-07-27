@@ -1,29 +1,20 @@
 - fastfetch nerd font config </
 
-- define the dependencies in the deps.txt </ (I think I got everything?)
+- define the dependencies in the deps.txt </ 
 
 - Fix the fastfetch config </
-- Make a slightly different deal for the laptop maybe. With a battery module for the polybar and also smaller text and the like.
-- fix kitty conf
-- make the speaker and the in-built headphone jack work.
-- make the bluetooth work too OwO.
+- fix kitty conf </
+- make the graphic for fastfetch the right size
 - make that warning script
 	-
 	-
-- Determine the naming convention of the file system.
 - fix nitrogen config
-- remake the color scheme for vim
 
-- setup neovim
-	- 
-	- 
-	- 
-	- 
 - configure and theme the rofi menu
 	- configuring what shows up on rofi
 	- configuring icons/what icons rofi uses
 	- make shit purple
-	- truncate the description of the applications (i.e. remove the little description of apps that shows up in parentheses)
+	- truncate the description of the applications 
 
 - polybar config 
 	-
@@ -68,11 +59,11 @@
 
 - install all of the applications needed
 - determine what to include in the base install
-- configure fuzzy finder with and scripts
+- configure fuzzy finder with scripts
 - optimize gaming performance
 - allow the knob the keyboard to control the system volume.
 - create a custom little notification sound for when a usb device is connected.
-- create an install script
+- create an installer script
 
 # there should be a menu for shortcuts and when you install using the script it will show you the shortcut for viewing the other shortcuts and you can turn this off after the fact I guess.
 
